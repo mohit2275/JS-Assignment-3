@@ -1,0 +1,51 @@
+ASSIGNMENT 3 ANSWERS
+
+NUMBERS  = > 
+
+Ans 1 -  A number is a data type in Javascript which is used to diplay the numerical data which is present in your site.
+	for eg - 1 , 2, ,3 , 87 , 100
+Ans 2 -  We declare number data type simply by writing the numercal values of it after = without "" on it.
+Ans 3 -  We use + (Addition ) Arthemitic operator for this. 
+	Declare two variables in number data type and you can add them using +.
+Ans 4 -  We use - ( Subtraction ) Arthemitic operator for this. 
+	Declare two variables in number data type and you can subtract them using -.  
+Ans 5 -  We use * ( Multiplication ) Arthemitic operator for this. 
+	Declare two variables in number data type and you can multiply them using *.
+Ans 6 -  We use / ( Division ) Arthemitic operator for this. 
+	Declare two variables in number data type and you can divide them using /.
+Ans 7 - We use the modulu operator for finding the remainder - %
+	for eg :  let a = 10  ,  let b = 4  ,  then a % b = 2 
+Ans 8 - The Math.round() function is used to round off a number to the nearest integer.
+Ans 9 - The toFixed() method rounds the number to a specified number of decimals.
+            For eg - let a = 5.56789;
+	let n = a.toFixed(4);     ,,,,, Then it will round off to the 4 decimal places.
+Ans 10 -  In JavaScript, we can convert a number to a string using the toString() function or by concatenating an empty string "" with the number. 
+	 for eg - a = 54;   --- Data type of a will be a  number.
+	            b = a.toString(); --- this will convert the number in string and if we will check the data type of b then we will get as String.
+
+
+STRINGS  = >
+
+Ans 1 - A string is a datatype in Javascript which is used to display the alphabets , or texts which is written in the "".
+	for eg - "Hello"
+Ans 2 -  We declare string data type simply by writing the alphabatical values of it using  "" on it.
+Ans 3 - We use the + operator to concatenate two strings for eg - "Hello" + World"".
+Ans 4 - Firstly we write the variable of which we wish to find the length and then use the length function.
+	 For eg. let a = "Mohit" ........ console.log( a.length )
+Ans 5 - We can access the character by writng its index number on which it is present in [ ] after the name of the variable. 
+Ans 6 - We can use parseInt( a ) function to convert string into the number. for eg a = "123" then b = parseInt( a ) will convert it into number.
+Ans 7 - In JavaScript, we can convert a string to uppercase using the toUpperCase() method. for eg a= "mohit" then b = a.toUpperCase() will convert it in uppercase.
+Ans 8 - In JavaScript, we can convert a string to lowercase using the toLowerCase() method. for eg a= " MOHIT "  then b = a.toLowerCase() will convert it in Lowercase.
+Ans 9 - In JavaScript, we can replace a substring in a string using the replace() method.
+	Its syntax is : string.replace( "searchValue", "newValue")
+Ans 10 - We can split the string using the given function : for eg -  a = " Hello " 
+	a.split('') and if we will add a single space between (' ') the it will create the array word wise otherwise it will create character wise.
+
+
+ 
+
+
+
+
+
+
